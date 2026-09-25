@@ -92,7 +92,7 @@ def main() -> None:
     (preview_dir / "index.html").write_text(page, encoding="utf-8")
 
     print(f"built {len(icons)} svg files -> icons/")
-    print(f"built preview -> preview/index.html")
+    print("built preview -> docs/index.html")
 
 
 if __name__ == "__main__":
