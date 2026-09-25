@@ -8,7 +8,9 @@
 
 ## 预览
 
-浏览器直接打开 [`preview/index.html`](preview/index.html)（深浅双色预览全部图标）。
+在线预览：<https://zer0qing.github.io/muse-icons/>（GitHub Pages）
+
+或本地直接打开 [`docs/index.html`](docs/index.html)（深浅双色预览全部图标）。
 
 ## 使用
 
@@ -35,7 +37,7 @@
 ```
 icons/        SVG 源文件（一图一文件）
 icons.json    图标数据（唯一数据源）
-preview/      预览页（深浅双色）
+docs/         预览页（深浅双色，GitHub Pages 指向此处）
 scripts/      构建脚本
 ```
 
@@ -45,7 +47,7 @@ scripts/      构建脚本
 python scripts/build.py
 ```
 
-从 `icons.json` 重新生成 `icons/*.svg` 与 `preview/index.html`。
+从 `icons.json` 重新生成 `icons/*.svg` 与 `docs/index.html`。
 
 ## 路线图
 

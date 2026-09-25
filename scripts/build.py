@@ -84,7 +84,7 @@ def main() -> None:
             SVG_TEMPLATE.format(body=pretty), encoding="utf-8"
         )
 
-    preview_dir = ROOT / "preview"
+    preview_dir = ROOT / "docs"
     preview_dir.mkdir(exist_ok=True)
     page = PREVIEW_TEMPLATE.replace(
         "__ICONS__", json.dumps(icons, ensure_ascii=False)
