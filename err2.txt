@@ -1,0 +1,1640 @@
+Reusing configuration cache.
+> Task :memory:preBuild UP-TO-DATE
+> Task :accessibility:preBuild UP-TO-DATE
+> Task :material3:preBuild UP-TO-DATE
+> Task :ai:preBuild UP-TO-DATE
+> Task :accessibility:preDebugBuild UP-TO-DATE
+> Task :material3:preDebugBuild UP-TO-DATE
+> Task :memory:preDebugBuild UP-TO-DATE
+> Task :ai:preDebugBuild UP-TO-DATE
+> Task :app:syncMuseWebAssets UP-TO-DATE
+> Task :memory:processDebugNavigationResources UP-TO-DATE
+> Task :common:preBuild UP-TO-DATE
+> Task :app:preBuild UP-TO-DATE
+> Task :memory:generateDebugResources UP-TO-DATE
+> Task :accessibility:processDebugNavigationResources UP-TO-DATE
+> Task :accessibility:generateDebugResources UP-TO-DATE
+> Task :material3:generateDebugResources UP-TO-DATE
+> Task :app:preDebugBuild UP-TO-DATE
+> Task :accessibility:javaPreCompileDebug UP-TO-DATE
+> Task :material3:javaPreCompileDebug UP-TO-DATE
+> Task :material3:processDebugNavigationResources UP-TO-DATE
+> Task :ai:javaPreCompileDebug UP-TO-DATE
+> Task :ai:processDebugNavigationResources UP-TO-DATE
+> Task :memory:javaPreCompileDebug UP-TO-DATE
+> Task :common:preDebugBuild UP-TO-DATE
+> Task :app:generateDebugBuildConfig UP-TO-DATE
+> Task :app:generateDebugResources UP-TO-DATE
+> Task :ai:generateDebugBuildConfig UP-TO-DATE
+> Task :ai:generateDebugResources UP-TO-DATE
+> Task :common:generateDebugResources UP-TO-DATE
+> Task :common:javaPreCompileDebug UP-TO-DATE
+> Task :common:processDebugNavigationResources UP-TO-DATE
+> Task :accessibility:packageDebugResources UP-TO-DATE
+> Task :material3:packageDebugResources UP-TO-DATE
+> Task :memory:packageDebugResources UP-TO-DATE
+> Task :app:packageDebugResources UP-TO-DATE
+> Task :ai:packageDebugResources UP-TO-DATE
+> Task :common:packageDebugResources UP-TO-DATE
+> Task :material3:parseDebugLocalResources UP-TO-DATE
+> Task :accessibility:parseDebugLocalResources UP-TO-DATE
+> Task :ai:parseDebugLocalResources UP-TO-DATE
+> Task :memory:parseDebugLocalResources UP-TO-DATE
+> Task :common:parseDebugLocalResources UP-TO-DATE
+> Task :accessibility:generateDebugRFile UP-TO-DATE
+> Task :ai:generateDebugRFile UP-TO-DATE
+> Task :material3:generateDebugRFile UP-TO-DATE
+> Task :memory:generateDebugRFile UP-TO-DATE
+> Task :common:generateDebugRFile UP-TO-DATE
+> Task :accessibility:compileDebugAidl UP-TO-DATE
+> Task :common:compileDebugKotlin UP-TO-DATE
+> Task :common:compileDebugJavaWithJavac NO-SOURCE
+> Task :common:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :app:processDebugNavigationResources UP-TO-DATE
+> Task :material3:compileDebugKotlin UP-TO-DATE
+> Task :app:parseDebugLocalResources UP-TO-DATE
+> Task :material3:compileDebugJavaWithJavac NO-SOURCE
+> Task :app:generateDebugRFile UP-TO-DATE
+> Task :material3:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :app:compileDebugAidl UP-TO-DATE
+> Task :accessibility:compileDebugKotlin UP-TO-DATE
+> Task :accessibility:compileDebugJavaWithJavac UP-TO-DATE
+> Task :accessibility:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :ai:compileDebugKotlin UP-TO-DATE
+> Task :ai:compileDebugJavaWithJavac UP-TO-DATE
+> Task :ai:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :memory:kspDebugKotlin UP-TO-DATE
+> Task :memory:compileDebugKotlin UP-TO-DATE
+> Task :memory:compileDebugJavaWithJavac NO-SOURCE
+> Task :memory:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :app:kspDebugKotlin UP-TO-DATE
+
+> Task :app:compileDebugKotlin
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:18:33 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:22:31 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:26:31 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:30:31 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:34:31 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:38:31 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:42:36 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:46:36 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:50:28 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:54:41 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:58:34 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:62:35 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:66:39 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:70:32 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:74:34 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:78:33 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:82:35 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:86:31 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:90:32 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:94:32 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:98:34 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:102:38 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:106:36 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:110:39 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:114:38 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:118:36 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:122:34 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:126:37 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:130:39 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:134:31 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:138:32 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:142:35 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:146:33 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:150:39 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:154:37 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:158:33 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:162:32 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:166:31 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:170:32 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:174:31 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:178:33 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:182:35 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:186:34 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:190:36 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:194:32 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:198:38 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:202:33 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:206:35 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:210:32 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:214:31 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:218:30 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:222:33 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:226:31 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:230:40 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:234:38 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:238:38 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:242:31 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:246:32 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:250:31 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:254:32 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:258:41 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:262:36 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:266:31 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:270:33 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:274:32 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:278:32 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:282:31 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:286:35 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:290:36 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:294:41 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:298:35 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:302:29 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:306:31 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:310:30 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:314:31 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:318:35 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:322:30 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:326:33 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:330:39 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:334:40 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:338:38 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:342:38 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:346:36 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:350:34 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:354:30 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:358:37 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:362:40 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:366:39 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:370:35 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:374:36 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:378:33 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:382:38 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:386:38 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:390:40 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:394:35 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:398:38 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:402:34 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:406:35 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:410:39 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:414:34 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:418:31 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:422:33 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:426:32 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:430:37 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:434:37 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:438:34 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:442:32 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:446:35 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:450:39 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:454:32 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:458:31 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:462:34 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:466:36 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:470:34 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:474:31 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:478:32 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:482:35 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:486:30 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:490:40 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:494:35 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:498:31 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:502:31 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:506:33 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:510:37 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:514:35 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:518:32 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:522:34 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:526:36 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:530:31 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:534:36 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:538:32 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:542:31 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:546:5 Function declaration must have a name.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:546:5 Function '<no name provided>' without a body must be abstract.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:546:8 Syntax error: Expecting function name or receiver type.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:546:9 Syntax error: Expecting member declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:546:16 Syntax error: Expecting member declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:546:17 Syntax error: Expecting member declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:546:18 Syntax error: Expecting member declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:546:20 Syntax error: Expecting member declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:546:32 Syntax error: Expecting member declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:546:34 Syntax error: Expecting member declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:546:48 Syntax error: Expecting member declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:546:49 Syntax error: Expecting member declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:546:50 Syntax error: Expecting member declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:546:51 Syntax error: Expecting member declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:546:59 Syntax error: Expecting member declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:546:60 Syntax error: Expecting member declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:546:75 Syntax error: Expecting member declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:550:34 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:554:32 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:558:39 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:562:30 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:566:33 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:570:31 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:574:32 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:578:33 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:582:32 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:586:33 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:590:32 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:594:33 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:598:30 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:602:33 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:606:33 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:610:31 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:614:33 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:618:32 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:622:32 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:626:30 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:630:33 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:634:38 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:638:35 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:642:35 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:646:34 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:650:32 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:654:39 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:658:37 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:662:37 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:666:32 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:670:33 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:674:33 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:678:35 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:682:31 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:686:31 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:690:38 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:694:32 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:698:34 None of the following candidates is applicable:
+
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(theme: Resources.Theme? = ..., res: Resources, resId: Int): ImageVector
+
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector:
+  Unresolved reference. None of the following candidates is applicable because of a receiver type mismatch:
+fun ImageVector.Companion.vectorResource(id: Int): ImageVector
+
+> Task :app:compileDebugKotlin FAILED
+
+
+[Incubating] Problems report is available at: file:///E:/1Project/Muse/1muse/build/reports/problems/problems-report.html
+55 actionable tasks: 1 executed, 54 up-to-date
+Configuration cache entry reused.
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':app:compileDebugKotlin'.
+> A failure occurred while executing org.jetbrains.kotlin.compilerRunner.btapi.BuildToolsApiCompilationWork
+   > Compilation error. See log for more details
+
+* Try:
+> Run with --stacktrace option to get the stack trace.
+> Run with --info or --debug option to get more log output.
+> Run with --scan to get full insights from a Build Scan (powered by Develocity).
+> Get more help at https://help.gradle.org.
+
+BUILD FAILED in 3s

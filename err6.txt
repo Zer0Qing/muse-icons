@@ -1,0 +1,101 @@
+Reusing configuration cache.
+> Task :accessibility:preBuild UP-TO-DATE
+> Task :common:preBuild UP-TO-DATE
+> Task :material3:preBuild UP-TO-DATE
+> Task :memory:preBuild UP-TO-DATE
+> Task :ai:preBuild UP-TO-DATE
+> Task :accessibility:preDebugBuild UP-TO-DATE
+> Task :common:preDebugBuild UP-TO-DATE
+> Task :ai:preDebugBuild UP-TO-DATE
+> Task :material3:preDebugBuild UP-TO-DATE
+> Task :memory:preDebugBuild UP-TO-DATE
+> Task :app:syncMuseWebAssets UP-TO-DATE
+> Task :accessibility:generateDebugResources UP-TO-DATE
+> Task :accessibility:processDebugNavigationResources UP-TO-DATE
+> Task :common:generateDebugResources UP-TO-DATE
+> Task :app:preBuild UP-TO-DATE
+> Task :app:preDebugBuild UP-TO-DATE
+> Task :accessibility:javaPreCompileDebug UP-TO-DATE
+> Task :common:processDebugNavigationResources UP-TO-DATE
+> Task :material3:javaPreCompileDebug UP-TO-DATE
+> Task :memory:generateDebugResources UP-TO-DATE
+> Task :material3:generateDebugResources UP-TO-DATE
+> Task :memory:processDebugNavigationResources UP-TO-DATE
+> Task :memory:javaPreCompileDebug UP-TO-DATE
+> Task :app:generateDebugBuildConfig UP-TO-DATE
+> Task :app:generateDebugResources UP-TO-DATE
+> Task :common:packageDebugResources UP-TO-DATE
+> Task :accessibility:packageDebugResources UP-TO-DATE
+> Task :common:javaPreCompileDebug UP-TO-DATE
+> Task :material3:processDebugNavigationResources UP-TO-DATE
+> Task :ai:generateDebugResources UP-TO-DATE
+> Task :material3:packageDebugResources UP-TO-DATE
+> Task :ai:javaPreCompileDebug UP-TO-DATE
+> Task :ai:processDebugNavigationResources UP-TO-DATE
+> Task :app:packageDebugResources UP-TO-DATE
+> Task :memory:packageDebugResources UP-TO-DATE
+> Task :ai:generateDebugBuildConfig UP-TO-DATE
+> Task :common:parseDebugLocalResources UP-TO-DATE
+> Task :material3:parseDebugLocalResources UP-TO-DATE
+> Task :accessibility:parseDebugLocalResources UP-TO-DATE
+> Task :ai:packageDebugResources UP-TO-DATE
+> Task :memory:parseDebugLocalResources UP-TO-DATE
+> Task :accessibility:generateDebugRFile UP-TO-DATE
+> Task :ai:parseDebugLocalResources UP-TO-DATE
+> Task :common:generateDebugRFile UP-TO-DATE
+> Task :material3:generateDebugRFile UP-TO-DATE
+> Task :memory:generateDebugRFile UP-TO-DATE
+> Task :ai:generateDebugRFile UP-TO-DATE
+> Task :accessibility:compileDebugAidl UP-TO-DATE
+> Task :common:compileDebugKotlin UP-TO-DATE
+> Task :common:compileDebugJavaWithJavac NO-SOURCE
+> Task :common:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :material3:compileDebugKotlin UP-TO-DATE
+> Task :app:processDebugNavigationResources UP-TO-DATE
+> Task :material3:compileDebugJavaWithJavac NO-SOURCE
+> Task :app:parseDebugLocalResources UP-TO-DATE
+> Task :material3:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :app:generateDebugRFile UP-TO-DATE
+> Task :app:compileDebugAidl UP-TO-DATE
+> Task :accessibility:compileDebugKotlin UP-TO-DATE
+> Task :accessibility:compileDebugJavaWithJavac UP-TO-DATE
+> Task :accessibility:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :ai:compileDebugKotlin UP-TO-DATE
+> Task :ai:compileDebugJavaWithJavac UP-TO-DATE
+> Task :ai:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :memory:kspDebugKotlin UP-TO-DATE
+> Task :memory:compileDebugKotlin UP-TO-DATE
+> Task :memory:compileDebugJavaWithJavac NO-SOURCE
+> Task :memory:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :app:kspDebugKotlin
+> Task :app:compileDebugKotlin
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/InputBar.kt:916:61 Unresolved reference 'MuseIcons'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/InputBar.kt:1010:61 Unresolved reference 'stack2'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/InputBar.kt:1457:34 Unresolved reference 'MuseIcons'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:133:38 Unresolved reference 'terminal2'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:134:36 Unresolved reference 'terminal2'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/qrcode/QrCodeDialogs.kt:78:49 Unresolved reference 'qrcode2'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/settings/ProviderModelsComponents.kt:116:50 Unresolved reference 'MuseIcons'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/speech/TtsControllerWidget.kt:171:57 Unresolved reference 'refresh5'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/speech/TtsControllerWidget.kt:183:57 Unresolved reference 'forward5'.
+
+> Task :app:compileDebugKotlin FAILED
+
+[Incubating] Problems report is available at: file:///E:/1Project/Muse/1muse/build/reports/problems/problems-report.html
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':app:compileDebugKotlin'.
+> A failure occurred while executing org.jetbrains.kotlin.compilerRunner.btapi.BuildToolsApiCompilationWork
+   > Compilation error. See log for more details
+
+* Try:
+> Run with --stacktrace option to get the stack trace.
+> Run with --info or --debug option to get more log output.
+> Run with --scan to get full insights from a Build Scan (powered by Develocity).
+> Get more help at https://help.gradle.org.
+
+BUILD FAILED in 45s
+55 actionable tasks: 2 executed, 53 up-to-date
+Configuration cache entry reused.

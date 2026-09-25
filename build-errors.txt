@@ -1,0 +1,456 @@
+Reusing configuration cache.
+> Task :material3:preBuild UP-TO-DATE
+> Task :accessibility:preBuild UP-TO-DATE
+> Task :ai:preBuild UP-TO-DATE
+> Task :memory:preBuild UP-TO-DATE
+> Task :common:preBuild UP-TO-DATE
+> Task :accessibility:preDebugBuild UP-TO-DATE
+> Task :ai:preDebugBuild UP-TO-DATE
+> Task :material3:preDebugBuild UP-TO-DATE
+> Task :app:syncMuseWebAssets UP-TO-DATE
+> Task :accessibility:generateDebugResources UP-TO-DATE
+> Task :material3:generateDebugResources UP-TO-DATE
+> Task :material3:processDebugNavigationResources UP-TO-DATE
+> Task :accessibility:processDebugNavigationResources UP-TO-DATE
+> Task :app:preBuild UP-TO-DATE
+> Task :material3:javaPreCompileDebug UP-TO-DATE
+> Task :accessibility:javaPreCompileDebug UP-TO-DATE
+> Task :memory:preDebugBuild UP-TO-DATE
+> Task :app:preDebugBuild UP-TO-DATE
+> Task :ai:javaPreCompileDebug UP-TO-DATE
+> Task :memory:processDebugNavigationResources UP-TO-DATE
+> Task :app:generateDebugResources UP-TO-DATE
+> Task :app:generateDebugBuildConfig UP-TO-DATE
+> Task :memory:javaPreCompileDebug UP-TO-DATE
+> Task :common:preDebugBuild UP-TO-DATE
+> Task :ai:generateDebugResources UP-TO-DATE
+> Task :material3:packageDebugResources UP-TO-DATE
+> Task :accessibility:packageDebugResources UP-TO-DATE
+> Task :ai:generateDebugBuildConfig UP-TO-DATE
+> Task :ai:processDebugNavigationResources UP-TO-DATE
+> Task :app:packageDebugResources UP-TO-DATE
+> Task :memory:generateDebugResources UP-TO-DATE
+> Task :common:generateDebugResources UP-TO-DATE
+> Task :material3:parseDebugLocalResources UP-TO-DATE
+> Task :common:javaPreCompileDebug UP-TO-DATE
+> Task :common:processDebugNavigationResources UP-TO-DATE
+> Task :accessibility:parseDebugLocalResources UP-TO-DATE
+> Task :memory:packageDebugResources UP-TO-DATE
+> Task :ai:packageDebugResources UP-TO-DATE
+> Task :common:packageDebugResources UP-TO-DATE
+> Task :material3:generateDebugRFile UP-TO-DATE
+> Task :memory:parseDebugLocalResources UP-TO-DATE
+> Task :accessibility:generateDebugRFile UP-TO-DATE
+> Task :ai:parseDebugLocalResources UP-TO-DATE
+> Task :common:parseDebugLocalResources UP-TO-DATE
+> Task :memory:generateDebugRFile UP-TO-DATE
+> Task :ai:generateDebugRFile UP-TO-DATE
+> Task :common:generateDebugRFile UP-TO-DATE
+> Task :accessibility:compileDebugAidl UP-TO-DATE
+> Task :app:processDebugNavigationResources UP-TO-DATE
+> Task :common:compileDebugKotlin UP-TO-DATE
+> Task :material3:compileDebugKotlin UP-TO-DATE
+> Task :app:parseDebugLocalResources UP-TO-DATE
+> Task :common:compileDebugJavaWithJavac NO-SOURCE
+> Task :app:generateDebugRFile UP-TO-DATE
+> Task :material3:compileDebugJavaWithJavac NO-SOURCE
+> Task :common:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :material3:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :app:compileDebugAidl UP-TO-DATE
+> Task :accessibility:compileDebugKotlin UP-TO-DATE
+> Task :accessibility:compileDebugJavaWithJavac UP-TO-DATE
+> Task :accessibility:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :ai:compileDebugKotlin UP-TO-DATE
+> Task :ai:compileDebugJavaWithJavac UP-TO-DATE
+> Task :ai:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :memory:kspDebugKotlin UP-TO-DATE
+> Task :memory:compileDebugKotlin UP-TO-DATE
+> Task :memory:compileDebugJavaWithJavac NO-SOURCE
+> Task :memory:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :app:kspDebugKotlin UP-TO-DATE
+
+> Task :app:compileDebugKotlin FAILED
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:27:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:34:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:53:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:72:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:79:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:98:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:117:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:124:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:143:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:150:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:169:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:188:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:195:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:214:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:233:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:252:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:259:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:266:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:273:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:292:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:299:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:318:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:325:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:344:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:351:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:358:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:365:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:384:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:391:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:410:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:429:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:436:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:455:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:474:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:493:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:500:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:507:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:514:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:533:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:540:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:559:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:578:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:597:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:616:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:635:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:642:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:661:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:668:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:687:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:694:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:713:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:732:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:739:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:758:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:765:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:772:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:779:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:798:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:805:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:824:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:831:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:850:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:857:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:864:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:883:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:890:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:897:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:916:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:923:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:942:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:949:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:956:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:975:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:994:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1001:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1020:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1039:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1058:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1065:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1072:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1091:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1098:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1105:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1124:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1131:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1150:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1169:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1176:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1195:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1202:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1209:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1228:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1235:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1242:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1261:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1268:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1275:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1294:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1301:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1308:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1327:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1334:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1353:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1360:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1367:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1386:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1393:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1400:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1419:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1426:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1433:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1452:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1459:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1466:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1485:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1492:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1511:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1518:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1537:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1544:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1563:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1582:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1589:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1596:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1615:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1622:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1641:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1648:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1655:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1674:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1681:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1700:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1719:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1738:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1745:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1764:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1771:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1778:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1797:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1816:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1823:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1830:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1837:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1856:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1863:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1870:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1889:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1908:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1915:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1934:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1941:9 Unresolved reference 'group'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1946:13 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1954:9 Unresolved reference 'group'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1959:13 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1979:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:1986:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2005:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2012:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2031:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2050:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2057:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2076:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2095:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2102:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2109:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2128:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2135:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2154:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2173:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2180:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2199:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2206:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2225:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2232:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2239:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2258:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2265:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2272:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2279:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2298:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2305:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2324:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2331:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2338:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2357:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2364:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2371:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2378:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2397:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2404:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2423:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2430:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2449:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2468:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2475:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2494:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2501:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2520:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2527:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2546:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2553:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2572:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2579:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2598:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2605:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2624:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2631:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2650:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2657:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2676:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2683:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2702:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2709:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2728:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2747:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2754:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2773:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2780:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2799:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2806:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2825:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2832:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2851:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2858:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2877:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2884:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2891:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2898:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2905:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2924:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2943:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2962:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2969:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2976:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:2995:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3014:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3021:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3028:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3035:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3054:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3061:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3068:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3087:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3094:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3113:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3120:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3127:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3146:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3165:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3172:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3191:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3198:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3217:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3224:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3231:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3250:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3257:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3264:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3283:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3290:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3309:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3316:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3335:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3342:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3349:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3368:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3375:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3394:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3413:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3420:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3427:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3446:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3453:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3460:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3479:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3498:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3505:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3524:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3531:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3550:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3557:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3576:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3583:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3590:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3609:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3616:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3635:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3654:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3661:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3668:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3675:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3694:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3701:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3720:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3727:9 Unresolved reference 'group'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3732:13 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3752:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3759:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3766:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3785:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3792:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3811:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3818:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3825:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3832:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3851:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3858:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3877:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3884:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3891:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3910:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3917:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3924:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3943:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3950:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3957:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3964:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3983:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:3990:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:4009:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:4016:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:4035:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:4054:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:4061:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:4080:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:4099:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:4106:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:4125:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:4132:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:4151:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:4158:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:4177:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:4184:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:4203:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:4222:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:4229:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:4248:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:4255:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:4274:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:4281:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:4300:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:4307:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:4314:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:4333:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:4340:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:4359:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:4366:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:4385:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:4404:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:4411:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:4430:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:4437:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:4456:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:4463:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:4482:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:4501:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:4508:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:4527:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:4546:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:4553:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:4572:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:4579:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:4598:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:4605:9 Unresolved reference 'path'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/icons/MuseIcons.kt:4612:9 Unresolved reference 'path'.
+
+
+[Incubating] Problems report is available at: file:///E:/1Project/Muse/1muse/build/reports/problems/problems-report.html
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':app:compileDebugKotlin'.
+> A failure occurred while executing org.jetbrains.kotlin.compilerRunner.btapi.BuildToolsApiCompilationWork
+   > Compilation error. See log for more details
+
+* Try:
+> Run with --stacktrace option to get the stack trace.
+> Run with --info or --debug option to get more log output.
+> Run with --scan to get full insights from a Build Scan (powered by Develocity).
+> Get more help at https://help.gradle.org.
+
+BUILD FAILED in 6s
+55 actionable tasks: 1 executed, 54 up-to-date
+Configuration cache entry reused.

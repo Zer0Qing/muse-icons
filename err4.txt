@@ -1,0 +1,583 @@
+Reusing configuration cache.
+> Task :common:preBuild UP-TO-DATE
+> Task :accessibility:preBuild UP-TO-DATE
+> Task :memory:preBuild UP-TO-DATE
+> Task :ai:preBuild UP-TO-DATE
+> Task :material3:preBuild UP-TO-DATE
+> Task :accessibility:preDebugBuild UP-TO-DATE
+> Task :memory:preDebugBuild UP-TO-DATE
+> Task :material3:preDebugBuild UP-TO-DATE
+> Task :app:syncMuseWebAssets UP-TO-DATE
+> Task :material3:generateDebugResources UP-TO-DATE
+> Task :accessibility:javaPreCompileDebug UP-TO-DATE
+> Task :accessibility:generateDebugResources UP-TO-DATE
+> Task :accessibility:processDebugNavigationResources UP-TO-DATE
+> Task :common:preDebugBuild UP-TO-DATE
+> Task :material3:javaPreCompileDebug UP-TO-DATE
+> Task :ai:preDebugBuild UP-TO-DATE
+> Task :material3:processDebugNavigationResources UP-TO-DATE
+> Task :memory:generateDebugResources UP-TO-DATE
+> Task :memory:processDebugNavigationResources UP-TO-DATE
+> Task :memory:javaPreCompileDebug UP-TO-DATE
+> Task :common:javaPreCompileDebug UP-TO-DATE
+> Task :ai:generateDebugResources UP-TO-DATE
+> Task :ai:javaPreCompileDebug UP-TO-DATE
+> Task :app:preBuild UP-TO-DATE
+> Task :ai:processDebugNavigationResources UP-TO-DATE
+> Task :common:processDebugNavigationResources UP-TO-DATE
+> Task :common:generateDebugResources UP-TO-DATE
+> Task :ai:generateDebugBuildConfig UP-TO-DATE
+> Task :app:preDebugBuild UP-TO-DATE
+> Task :material3:packageDebugResources UP-TO-DATE
+> Task :memory:packageDebugResources UP-TO-DATE
+> Task :app:generateDebugBuildConfig UP-TO-DATE
+> Task :app:generateDebugResources UP-TO-DATE
+> Task :accessibility:packageDebugResources UP-TO-DATE
+> Task :ai:packageDebugResources UP-TO-DATE
+> Task :common:packageDebugResources UP-TO-DATE
+> Task :material3:parseDebugLocalResources UP-TO-DATE
+> Task :memory:parseDebugLocalResources UP-TO-DATE
+> Task :app:packageDebugResources UP-TO-DATE
+> Task :common:parseDebugLocalResources UP-TO-DATE
+> Task :accessibility:parseDebugLocalResources UP-TO-DATE
+> Task :ai:parseDebugLocalResources UP-TO-DATE
+> Task :material3:generateDebugRFile UP-TO-DATE
+> Task :accessibility:generateDebugRFile UP-TO-DATE
+> Task :common:generateDebugRFile UP-TO-DATE
+> Task :memory:generateDebugRFile UP-TO-DATE
+> Task :ai:generateDebugRFile UP-TO-DATE
+> Task :accessibility:compileDebugAidl UP-TO-DATE
+> Task :common:compileDebugKotlin UP-TO-DATE
+> Task :common:compileDebugJavaWithJavac NO-SOURCE
+> Task :common:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :app:processDebugNavigationResources UP-TO-DATE
+> Task :app:parseDebugLocalResources UP-TO-DATE
+> Task :material3:compileDebugKotlin UP-TO-DATE
+> Task :app:generateDebugRFile UP-TO-DATE
+> Task :material3:compileDebugJavaWithJavac NO-SOURCE
+> Task :material3:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :app:compileDebugAidl UP-TO-DATE
+> Task :accessibility:compileDebugKotlin UP-TO-DATE
+> Task :accessibility:compileDebugJavaWithJavac UP-TO-DATE
+> Task :accessibility:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :ai:compileDebugKotlin UP-TO-DATE
+> Task :ai:compileDebugJavaWithJavac UP-TO-DATE
+> Task :ai:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :memory:kspDebugKotlin UP-TO-DATE
+> Task :memory:compileDebugKotlin UP-TO-DATE
+> Task :memory:compileDebugJavaWithJavac NO-SOURCE
+> Task :memory:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :app:kspDebugKotlin
+> Task :app:compileDebugKotlin
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/license/LicensesScreen.kt:20:34 Unresolved reference 'MuseIcons'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/license/LicensesScreen.kt:20:56 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/license/LicensesScreen.kt:20:57 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/license/LicensesScreen.kt:20:58 Syntax error: imports are only allowed in the beginning of file.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/license/LicensesScreen.kt:21:34 Unresolved reference 'MuseIcons'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/license/LicensesScreen.kt:21:56 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/license/LicensesScreen.kt:21:57 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/license/LicensesScreen.kt:21:58 Syntax error: imports are only allowed in the beginning of file.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/AssistantDetailPages.kt:18:34 Unresolved reference 'MuseIcons'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/AssistantDetailPages.kt:18:52 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/AssistantDetailPages.kt:18:53 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/AssistantDetailPages.kt:18:54 Syntax error: imports are only allowed in the beginning of file.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/AssistantScreen.kt:22:34 Unresolved reference 'MuseIcons'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/AssistantScreen.kt:22:56 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/AssistantScreen.kt:22:57 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/AssistantScreen.kt:22:58 Syntax error: imports are only allowed in the beginning of file.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/CoverManagerScreen.kt:25:34 Unresolved reference 'MuseIcons'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/CoverManagerScreen.kt:25:53 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/CoverManagerScreen.kt:25:54 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/CoverManagerScreen.kt:25:55 Syntax error: imports are only allowed in the beginning of file.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/InputBar.kt:916:61 Unresolved reference 'MuseIcons'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/InputBar.kt:1010:68 Syntax error: Expecting ','.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/InputBar.kt:1010:68 Argument type mismatch: actual type is 'Int', but 'String?' was expected.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/InputBar.kt:1011:37 Argument already passed for this parameter.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/InputBar.kt:1457:34 Unresolved reference 'MuseIcons'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/LorebookScreen.kt:29:34 Unresolved reference 'MuseIcons'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/LorebookScreen.kt:29:52 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/LorebookScreen.kt:29:53 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/LorebookScreen.kt:29:54 Syntax error: imports are only allowed in the beginning of file.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/LorebookScreen.kt:30:34 Unresolved reference 'MuseIcons'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/LorebookScreen.kt:30:52 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/LorebookScreen.kt:30:53 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/LorebookScreen.kt:30:54 Syntax error: imports are only allowed in the beginning of file.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/MessageBubble.kt:41:34 Unresolved reference 'MuseIcons'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/MessageBubble.kt:41:49 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/MessageBubble.kt:41:50 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/MessageBubble.kt:41:51 Syntax error: imports are only allowed in the beginning of file.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/MessageBubble.kt:51:34 Unresolved reference 'MuseIcons'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/MessageBubble.kt:51:52 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/MessageBubble.kt:51:53 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/MessageBubble.kt:51:54 Syntax error: imports are only allowed in the beginning of file.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/MessageBubble.kt:2077:50 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/MessageBubble.kt:2087:50 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/MessageBubble.kt:2098:46 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/MessageBubble.kt:2106:46 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/MessageBubble.kt:2116:46 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/MilestoneScreen.kt:17:34 Unresolved reference 'MuseIcons'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/MilestoneScreen.kt:17:53 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/MilestoneScreen.kt:17:54 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/MilestoneScreen.kt:17:55 Syntax error: imports are only allowed in the beginning of file.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/MuseToolSheet.kt:37:34 Unresolved reference 'MuseIcons'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/MuseToolSheet.kt:37:56 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/MuseToolSheet.kt:37:57 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/MuseToolSheet.kt:37:58 Syntax error: imports are only allowed in the beginning of file.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SafeModeScreen.kt:29:34 Unresolved reference 'MuseIcons'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SafeModeScreen.kt:29:52 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SafeModeScreen.kt:29:53 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SafeModeScreen.kt:29:54 Syntax error: imports are only allowed in the beginning of file.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:25:34 Unresolved reference 'MuseIcons'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:25:56 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:25:57 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:25:58 Syntax error: imports are only allowed in the beginning of file.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:306:265 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:307:251 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:308:240 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:309:185 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:310:212 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:311:212 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:312:214 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:315:184 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:316:177 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:317:231 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:318:229 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:319:315 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:320:239 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:330:31 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:340:31 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:342:194 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:343:188 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:344:191 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:346:217 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:349:231 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:350:178 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:351:208 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:352:219 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:353:197 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:359:31 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:361:245 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:362:216 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:363:196 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:366:199 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:367:248 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:368:244 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:369:209 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:372:235 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:373:216 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:374:208 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:375:221 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:377:150 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:380:175 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:383:176 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:384:217 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:387:211 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:388:174 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:389:179 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:390:164 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:391:132 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:392:202 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:393:200 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:396:175 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:397:225 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:398:185 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:399:222 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:401:196 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:402:183 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:403:164 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:404:174 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:405:171 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:407:157 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:408:162 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:410:157 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:411:181 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:412:198 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:414:164 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:416:195 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:417:171 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:419:186 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:421:176 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:423:165 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:424:198 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:425:192 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:426:180 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:427:188 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:514:91 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:515:103 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:521:101 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:522:93 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:523:120 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:529:99 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:530:79 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:531:95 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:532:107 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:533:94 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:535:101 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:536:93 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:542:109 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:543:108 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:544:89 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:552:100 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:553:124 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:554:70 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:558:43 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:564:43 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:566:104 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:567:101 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:573:102 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:574:104 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:575:104 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:576:85 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:578:104 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:582:43 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:586:99 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:587:71 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:588:59 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:594:99 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:595:93 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:597:100 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:598:105 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:601:93 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/WorkspaceScreen.kt:25:34 Unresolved reference 'MuseIcons'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/WorkspaceScreen.kt:25:53 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/WorkspaceScreen.kt:25:54 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/WorkspaceScreen.kt:25:55 Syntax error: imports are only allowed in the beginning of file.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/WorkspaceScreen.kt:26:34 Unresolved reference 'MuseIcons'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/WorkspaceScreen.kt:26:53 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/WorkspaceScreen.kt:26:54 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/WorkspaceScreen.kt:26:55 Syntax error: imports are only allowed in the beginning of file.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/artifact/ArtifactCard.kt:11:34 Unresolved reference 'MuseIcons'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/artifact/ArtifactCard.kt:11:52 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/artifact/ArtifactCard.kt:11:53 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/artifact/ArtifactCard.kt:11:54 Syntax error: imports are only allowed in the beginning of file.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/artifact/DocPreviewDialog.kt:14:34 Unresolved reference 'MuseIcons'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/artifact/DocPreviewDialog.kt:14:53 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/artifact/DocPreviewDialog.kt:14:54 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/artifact/DocPreviewDialog.kt:14:55 Syntax error: imports are only allowed in the beginning of file.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/BranchSelector.kt:12:34 Unresolved reference 'MuseIcons'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/BranchSelector.kt:12:55 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/BranchSelector.kt:12:56 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/BranchSelector.kt:12:57 Syntax error: imports are only allowed in the beginning of file.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/BranchSelector.kt:13:34 Unresolved reference 'MuseIcons'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/BranchSelector.kt:13:56 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/BranchSelector.kt:13:57 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/BranchSelector.kt:13:58 Syntax error: imports are only allowed in the beginning of file.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/MuseReactionSheet.kt:43:25 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/MuseReactionSheet.kt:44:25 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/MuseReactionSheet.kt:45:26 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/MuseReactionSheet.kt:46:24 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/MuseReactionSheet.kt:47:24 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/MuseReactionSheet.kt:48:26 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:71:9 Functions which invoke @Composable functions must be marked with the @Composable annotation
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:71:105 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:118:35 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:119:38 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:120:35 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:121:37 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:122:42 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:123:42 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:125:34 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:126:35 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:127:35 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:128:40 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:129:39 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:131:37 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:132:43 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:133:38 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:133:48 Syntax error: Expecting ','.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:133:48 Argument type mismatch: actual type is 'Int', but 'Pair<String, ImageVector>' was expected.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:134:36 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:134:46 Syntax error: Expecting ','.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:134:46 Argument type mismatch: actual type is 'Int', but 'Pair<String, ImageVector>' was expected.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:135:36 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:137:33 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:138:41 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:139:38 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:140:37 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:141:41 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:142:34 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:143:35 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:144:38 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:145:33 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:147:39 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:148:39 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:149:41 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:151:41 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:152:39 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:153:43 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:154:42 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:155:40 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:156:39 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:157:34 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:158:34 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:159:46 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:160:44 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:161:46 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:162:46 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:163:47 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:164:51 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:166:40 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:167:41 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:168:41 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:169:40 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:170:37 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:171:41 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:172:41 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:173:38 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:174:36 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:175:41 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:176:46 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:177:44 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:178:33 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:179:44 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:180:43 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:181:41 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:182:39 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:183:39 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:184:35 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:185:35 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:186:42 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:187:32 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:188:36 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:190:40 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:191:33 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:192:43 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:193:42 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:194:36 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:195:37 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:196:34 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:197:35 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:198:35 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:199:49 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:201:39 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:202:40 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:204:39 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:205:40 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:206:39 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:207:42 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:208:42 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:209:39 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:211:37 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:212:38 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:213:40 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:214:37 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:215:40 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:217:39 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:218:38 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:219:37 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:220:39 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:221:37 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:222:38 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:223:45 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:225:37 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:226:34 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:227:45 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:228:46 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:229:33 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:231:31 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:232:47 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:233:34 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:234:39 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:236:35 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:237:29 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:238:34 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:239:35 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:240:36 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:241:35 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:242:35 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:243:35 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:244:38 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:245:38 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:246:34 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:247:38 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:248:42 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:249:38 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:250:39 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:251:35 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:254:17 Functions which invoke @Composable functions must be marked with the @Composable annotation
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:255:54 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:256:56 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:257:61 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:258:57 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:259:55 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:260:55 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:261:54 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:262:56 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:263:50 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/navigation/MuseLargeTitleHeader.kt:8:34 Unresolved reference 'MuseIcons'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/navigation/MuseLargeTitleHeader.kt:8:53 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/navigation/MuseLargeTitleHeader.kt:8:54 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/navigation/MuseLargeTitleHeader.kt:8:55 Syntax error: imports are only allowed in the beginning of file.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/navigation/MuseTopBar.kt:9:34 Unresolved reference 'MuseIcons'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/navigation/MuseTopBar.kt:9:53 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/navigation/MuseTopBar.kt:9:54 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/navigation/MuseTopBar.kt:9:55 Syntax error: imports are only allowed in the beginning of file.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/settings/ChevronRight.kt:3:34 Unresolved reference 'MuseIcons'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/settings/ChevronRight.kt:3:56 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/settings/ChevronRight.kt:3:57 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/common/settings/ChevronRight.kt:3:58 Syntax error: imports are only allowed in the beginning of file.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/groupchat/GroupChatDetailComponents.kt:92:34 Unresolved reference 'MuseIcons'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/groupchat/GroupChatDetailComponents.kt:92:54 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/groupchat/GroupChatDetailComponents.kt:92:55 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/groupchat/GroupChatDetailComponents.kt:92:56 Syntax error: imports are only allowed in the beginning of file.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/groupchat/GroupChatDetailComponents.kt:93:34 Unresolved reference 'MuseIcons'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/groupchat/GroupChatDetailComponents.kt:93:48 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/groupchat/GroupChatDetailComponents.kt:93:49 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/groupchat/GroupChatDetailComponents.kt:93:50 Syntax error: imports are only allowed in the beginning of file.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/groupchat/GroupChatDetailComponents.kt:94:34 Unresolved reference 'MuseIcons'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/groupchat/GroupChatDetailComponents.kt:94:48 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/groupchat/GroupChatDetailComponents.kt:94:49 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/groupchat/GroupChatDetailComponents.kt:94:50 Syntax error: imports are only allowed in the beginning of file.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/knowledge/KnowledgeScreen.kt:32:34 Unresolved reference 'MuseIcons'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/knowledge/KnowledgeScreen.kt:32:52 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/knowledge/KnowledgeScreen.kt:32:53 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/knowledge/KnowledgeScreen.kt:32:54 Syntax error: imports are only allowed in the beginning of file.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/knowledge/KnowledgeScreen.kt:33:34 Unresolved reference 'MuseIcons'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/knowledge/KnowledgeScreen.kt:33:48 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/knowledge/KnowledgeScreen.kt:33:49 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/knowledge/KnowledgeScreen.kt:33:50 Syntax error: imports are only allowed in the beginning of file.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/knowledge/KnowledgeScreen.kt:1484:5 Functions which invoke @Composable functions must be marked with the @Composable annotation
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/knowledge/KnowledgeScreen.kt:1484:56 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/knowledge/KnowledgeScreen.kt:1485:5 Functions which invoke @Composable functions must be marked with the @Composable annotation
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/knowledge/KnowledgeScreen.kt:1485:56 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/knowledge/KnowledgeScreen.kt:1486:5 Functions which invoke @Composable functions must be marked with the @Composable annotation
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/knowledge/KnowledgeScreen.kt:1486:52 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/knowledge/KnowledgeScreen.kt:1487:5 Functions which invoke @Composable functions must be marked with the @Composable annotation
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/knowledge/KnowledgeScreen.kt:1487:50 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/moment/MiniAlbumScreen.kt:24:34 Unresolved reference 'MuseIcons'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/moment/MiniAlbumScreen.kt:24:53 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/moment/MiniAlbumScreen.kt:24:54 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/moment/MiniAlbumScreen.kt:24:55 Syntax error: imports are only allowed in the beginning of file.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/moment/MiniDiaryScreen.kt:24:34 Unresolved reference 'MuseIcons'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/moment/MiniDiaryScreen.kt:24:53 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/moment/MiniDiaryScreen.kt:24:54 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/moment/MiniDiaryScreen.kt:24:55 Syntax error: imports are only allowed in the beginning of file.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/moment/MiniDiaryScreen.kt:25:34 Unresolved reference 'MuseIcons'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/moment/MiniDiaryScreen.kt:25:55 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/moment/MiniDiaryScreen.kt:25:56 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/moment/MiniDiaryScreen.kt:25:57 Syntax error: imports are only allowed in the beginning of file.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/moment/MiniDiaryScreen.kt:26:34 Unresolved reference 'MuseIcons'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/moment/MiniDiaryScreen.kt:26:56 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/moment/MiniDiaryScreen.kt:26:57 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/moment/MiniDiaryScreen.kt:26:58 Syntax error: imports are only allowed in the beginning of file.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/moment/MiniWeatherScreen.kt:20:34 Unresolved reference 'MuseIcons'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/moment/MiniWeatherScreen.kt:20:53 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/moment/MiniWeatherScreen.kt:20:54 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/moment/MiniWeatherScreen.kt:20:55 Syntax error: imports are only allowed in the beginning of file.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/moment/MomentCard.kt:23:34 Unresolved reference 'MuseIcons'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/moment/MomentCard.kt:23:48 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/moment/MomentCard.kt:23:49 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/moment/MomentCard.kt:23:50 Syntax error: imports are only allowed in the beginning of file.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/moment/MomentComponents.kt:29:34 Unresolved reference 'MuseIcons'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/moment/MomentComponents.kt:29:53 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/moment/MomentComponents.kt:29:54 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/moment/MomentComponents.kt:29:55 Syntax error: imports are only allowed in the beginning of file.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/onboarding/OnboardingScreen.kt:38:34 Unresolved reference 'MuseIcons'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/onboarding/OnboardingScreen.kt:38:53 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/onboarding/OnboardingScreen.kt:38:54 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/onboarding/OnboardingScreen.kt:38:55 Syntax error: imports are only allowed in the beginning of file.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/onboarding/OnboardingScreen.kt:39:34 Unresolved reference 'MuseIcons'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/onboarding/OnboardingScreen.kt:39:54 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/onboarding/OnboardingScreen.kt:39:55 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/onboarding/OnboardingScreen.kt:39:56 Syntax error: imports are only allowed in the beginning of file.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/onboarding/OnboardingScreen.kt:43:34 Unresolved reference 'MuseIcons'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/onboarding/OnboardingScreen.kt:43:48 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/onboarding/OnboardingScreen.kt:43:49 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/onboarding/OnboardingScreen.kt:43:50 Syntax error: imports are only allowed in the beginning of file.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/onboarding/OnboardingScreen.kt:44:34 Unresolved reference 'MuseIcons'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/onboarding/OnboardingScreen.kt:44:52 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/onboarding/OnboardingScreen.kt:44:53 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/onboarding/OnboardingScreen.kt:44:54 Syntax error: imports are only allowed in the beginning of file.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/qrcode/QrCodeDialogs.kt:78:57 Syntax error: Expecting ','.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/qrcode/QrCodeDialogs.kt:78:57 Argument type mismatch: actual type is 'Int', but 'String?' was expected.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/qrcode/QrCodeDialogs.kt:79:25 Argument already passed for this parameter.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/quicknotes/QuickNotesScreen.kt:35:34 Unresolved reference 'MuseIcons'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/quicknotes/QuickNotesScreen.kt:35:48 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/quicknotes/QuickNotesScreen.kt:35:49 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/quicknotes/QuickNotesScreen.kt:35:50 Syntax error: imports are only allowed in the beginning of file.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/quicknotes/QuickNotesScreen.kt:36:34 Unresolved reference 'MuseIcons'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/quicknotes/QuickNotesScreen.kt:36:48 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/quicknotes/QuickNotesScreen.kt:36:49 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/quicknotes/QuickNotesScreen.kt:36:50 Syntax error: imports are only allowed in the beginning of file.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/settings/AsrSection.kt:542:13 Functions which invoke @Composable functions must be marked with the @Composable annotation
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/settings/AsrSection.kt:543:41 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/settings/AsrSection.kt:544:44 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/settings/AsrSection.kt:545:39 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/settings/AsrSection.kt:546:49 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/settings/AsrSection.kt:547:49 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/settings/AsrSection.kt:548:50 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/settings/AsrSection.kt:549:40 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/settings/ConnectionCenterScreen.kt:18:34 Unresolved reference 'MuseIcons'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/settings/ConnectionCenterScreen.kt:18:56 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/settings/ConnectionCenterScreen.kt:18:57 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/settings/ConnectionCenterScreen.kt:18:58 Syntax error: imports are only allowed in the beginning of file.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/settings/ProviderModelsComponents.kt:116:50 Unresolved reference 'MuseIcons'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/settings/SettingsTutorialPage.kt:90:34 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/settings/SettingsTutorialPage.kt:104:34 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/settings/SettingsTutorialPage.kt:117:34 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/settings/SettingsTutorialPage.kt:133:34 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/settings/SettingsTutorialPage.kt:152:34 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/settings/SettingsTutorialPage.kt:163:34 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/settings/SettingsTutorialPage.kt:174:34 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/settings/SettingsTutorialPage.kt:186:34 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/settings/TaskRoutingSettingsPage.kt:259:13 Functions which invoke @Composable functions must be marked with the @Composable annotation
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/settings/TaskRoutingSettingsPage.kt:260:32 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/settings/TaskRoutingSettingsPage.kt:261:37 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/settings/TaskRoutingSettingsPage.kt:262:32 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/settings/TaskRoutingSettingsPage.kt:263:36 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/settings/TaskRoutingSettingsPage.kt:264:36 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/speech/TtsControllerWidget.kt:20:34 Unresolved reference 'MuseIcons'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/speech/TtsControllerWidget.kt:20:55 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/speech/TtsControllerWidget.kt:20:56 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/speech/TtsControllerWidget.kt:20:57 Syntax error: imports are only allowed in the beginning of file.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/speech/TtsControllerWidget.kt:21:34 Unresolved reference 'MuseIcons'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/speech/TtsControllerWidget.kt:21:56 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/speech/TtsControllerWidget.kt:21:57 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/speech/TtsControllerWidget.kt:21:58 Syntax error: imports are only allowed in the beginning of file.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/speech/TtsControllerWidget.kt:173:66 Syntax error: Expecting ','.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/speech/TtsControllerWidget.kt:173:66 Argument type mismatch: actual type is 'Int', but 'String?' was expected.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/speech/TtsControllerWidget.kt:174:33 Argument already passed for this parameter.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/speech/TtsControllerWidget.kt:185:66 Syntax error: Expecting ','.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/speech/TtsControllerWidget.kt:185:66 Argument type mismatch: actual type is 'Int', but 'String?' was expected.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/speech/TtsControllerWidget.kt:186:33 Argument already passed for this parameter.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/taskcard/DelegationChainCard.kt:33:34 Unresolved reference 'MuseIcons'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/taskcard/DelegationChainCard.kt:33:56 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/taskcard/DelegationChainCard.kt:33:57 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/taskcard/DelegationChainCard.kt:33:58 Syntax error: imports are only allowed in the beginning of file.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/translate/TranslateScreen.kt:34:34 Unresolved reference 'MuseIcons'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/translate/TranslateScreen.kt:34:48 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/translate/TranslateScreen.kt:34:49 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/translate/TranslateScreen.kt:34:50 Syntax error: imports are only allowed in the beginning of file.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/translate/TranslateScreen.kt:35:34 Unresolved reference 'MuseIcons'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/translate/TranslateScreen.kt:35:50 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/translate/TranslateScreen.kt:35:51 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/translate/TranslateScreen.kt:35:52 Syntax error: imports are only allowed in the beginning of file.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/worldbook/WorldBookScreen.kt:26:34 Unresolved reference 'MuseIcons'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/worldbook/WorldBookScreen.kt:26:52 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/worldbook/WorldBookScreen.kt:26:53 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/worldbook/WorldBookScreen.kt:26:54 Syntax error: imports are only allowed in the beginning of file.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/worldbook/WorldBookScreen.kt:27:34 Unresolved reference 'MuseIcons'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/worldbook/WorldBookScreen.kt:27:52 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/worldbook/WorldBookScreen.kt:27:53 Syntax error: Expecting a top level declaration.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/worldbook/WorldBookScreen.kt:27:54 Syntax error: imports are only allowed in the beginning of file.
+
+> Task :app:compileDebugKotlin FAILED
+
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':app:compileDebugKotlin'.
+[Incubating] Problems report is available at: file:///E:/1Project/Muse/1muse/build/reports/problems/problems-report.html
+> A failure occurred while executing org.jetbrains.kotlin.compilerRunner.btapi.BuildToolsApiCompilationWork
+   > Compilation error. See log for more details
+
+* Try:
+> Run with --stacktrace option to get the stack trace.
+> Run with --info or --debug option to get more log output.
+> Run with --scan to get full insights from a Build Scan (powered by Develocity).
+> Get more help at https://help.gradle.org.
+
+BUILD FAILED in 1m 15s
+55 actionable tasks: 2 executed, 53 up-to-date
+Configuration cache entry reused.

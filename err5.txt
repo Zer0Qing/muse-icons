@@ -1,0 +1,391 @@
+Reusing configuration cache.
+> Task :common:preBuild UP-TO-DATE
+> Task :material3:preBuild UP-TO-DATE
+> Task :accessibility:preBuild UP-TO-DATE
+> Task :ai:preBuild UP-TO-DATE
+> Task :accessibility:preDebugBuild UP-TO-DATE
+> Task :common:preDebugBuild UP-TO-DATE
+> Task :ai:preDebugBuild UP-TO-DATE
+> Task :memory:preBuild UP-TO-DATE
+> Task :material3:preDebugBuild UP-TO-DATE
+> Task :ai:javaPreCompileDebug UP-TO-DATE
+> Task :common:processDebugNavigationResources UP-TO-DATE
+> Task :accessibility:javaPreCompileDebug UP-TO-DATE
+> Task :common:javaPreCompileDebug UP-TO-DATE
+> Task :accessibility:processDebugNavigationResources UP-TO-DATE
+> Task :ai:processDebugNavigationResources UP-TO-DATE
+> Task :accessibility:generateDebugResources UP-TO-DATE
+> Task :ai:generateDebugResources UP-TO-DATE
+> Task :common:generateDebugResources UP-TO-DATE
+> Task :material3:generateDebugResources UP-TO-DATE
+> Task :material3:javaPreCompileDebug UP-TO-DATE
+> Task :app:syncMuseWebAssets UP-TO-DATE
+> Task :ai:generateDebugBuildConfig UP-TO-DATE
+> Task :memory:preDebugBuild UP-TO-DATE
+> Task :material3:processDebugNavigationResources UP-TO-DATE
+> Task :memory:processDebugNavigationResources UP-TO-DATE
+> Task :memory:javaPreCompileDebug UP-TO-DATE
+> Task :memory:generateDebugResources UP-TO-DATE
+> Task :app:preBuild UP-TO-DATE
+> Task :app:preDebugBuild UP-TO-DATE
+> Task :accessibility:packageDebugResources UP-TO-DATE
+> Task :ai:packageDebugResources UP-TO-DATE
+> Task :common:packageDebugResources UP-TO-DATE
+> Task :app:generateDebugBuildConfig UP-TO-DATE
+> Task :app:generateDebugResources UP-TO-DATE
+> Task :memory:packageDebugResources UP-TO-DATE
+> Task :material3:packageDebugResources UP-TO-DATE
+> Task :ai:parseDebugLocalResources UP-TO-DATE
+> Task :common:parseDebugLocalResources UP-TO-DATE
+> Task :accessibility:parseDebugLocalResources UP-TO-DATE
+> Task :app:packageDebugResources UP-TO-DATE
+> Task :memory:parseDebugLocalResources UP-TO-DATE
+> Task :material3:parseDebugLocalResources UP-TO-DATE
+> Task :accessibility:generateDebugRFile UP-TO-DATE
+> Task :memory:generateDebugRFile UP-TO-DATE
+> Task :material3:generateDebugRFile UP-TO-DATE
+> Task :common:generateDebugRFile UP-TO-DATE
+> Task :ai:generateDebugRFile UP-TO-DATE
+> Task :accessibility:compileDebugAidl UP-TO-DATE
+> Task :common:compileDebugKotlin UP-TO-DATE
+> Task :common:compileDebugJavaWithJavac NO-SOURCE
+> Task :common:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :app:processDebugNavigationResources UP-TO-DATE
+> Task :app:parseDebugLocalResources UP-TO-DATE
+> Task :material3:compileDebugKotlin UP-TO-DATE
+> Task :app:generateDebugRFile UP-TO-DATE
+> Task :material3:compileDebugJavaWithJavac NO-SOURCE
+> Task :material3:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :app:compileDebugAidl UP-TO-DATE
+> Task :accessibility:compileDebugKotlin UP-TO-DATE
+> Task :accessibility:compileDebugJavaWithJavac UP-TO-DATE
+> Task :accessibility:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :ai:compileDebugKotlin UP-TO-DATE
+> Task :ai:compileDebugJavaWithJavac UP-TO-DATE
+> Task :ai:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :memory:kspDebugKotlin UP-TO-DATE
+> Task :memory:compileDebugKotlin UP-TO-DATE
+> Task :memory:compileDebugJavaWithJavac NO-SOURCE
+> Task :memory:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :app:kspDebugKotlin
+> Task :app:compileDebugKotlin
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/InputBar.kt:916:61 Unresolved reference 'MuseIcons'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/InputBar.kt:1010:68 Syntax error: Expecting ','.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/InputBar.kt:1010:68 Argument type mismatch: actual type is 'Int', but 'String?' was expected.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/InputBar.kt:1011:37 Argument already passed for this parameter.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/InputBar.kt:1457:34 Unresolved reference 'MuseIcons'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/MessageBubble.kt:2075:50 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/MessageBubble.kt:2085:50 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/MessageBubble.kt:2096:46 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/MessageBubble.kt:2104:46 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/MessageBubble.kt:2114:46 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:305:265 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:306:251 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:307:240 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:308:185 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:309:212 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:310:212 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:311:214 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:314:184 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:315:177 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:316:231 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:317:229 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:318:315 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:319:239 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:329:31 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:339:31 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:341:194 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:342:188 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:343:191 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:345:217 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:348:231 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:349:178 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:350:208 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:351:219 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:352:197 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:358:31 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:360:245 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:361:216 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:362:196 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:365:199 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:366:248 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:367:244 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:368:209 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:371:235 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:372:216 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:373:208 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:374:221 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:376:150 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:379:175 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:382:176 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:383:217 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:386:211 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:387:174 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:388:179 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:389:164 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:390:132 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:391:202 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:392:200 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:395:175 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:396:225 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:397:185 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:398:222 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:400:196 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:401:183 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:402:164 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:403:174 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:404:171 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:406:157 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:407:162 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:409:157 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:410:181 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:411:198 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:413:164 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:415:195 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:416:171 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:418:186 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:420:176 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:422:165 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:423:198 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:424:192 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:425:180 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:426:188 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:513:91 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:514:103 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:520:101 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:521:93 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:522:120 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:528:99 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:529:79 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:530:95 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:531:107 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:532:94 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:534:101 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:535:93 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:541:109 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:542:108 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:543:89 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:551:100 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:552:124 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:553:70 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:557:43 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:563:43 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:565:104 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:566:101 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:572:102 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:573:104 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:574:104 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:575:85 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:577:104 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:581:43 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:585:99 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:586:71 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:587:59 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:593:99 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:594:93 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:596:100 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:597:105 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/SettingsScreen.kt:600:93 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/MuseReactionSheet.kt:43:25 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/MuseReactionSheet.kt:44:25 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/MuseReactionSheet.kt:45:26 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/MuseReactionSheet.kt:46:24 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/MuseReactionSheet.kt:47:24 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/MuseReactionSheet.kt:48:26 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:71:9 Functions which invoke @Composable functions must be marked with the @Composable annotation
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:71:105 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:118:35 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:119:38 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:120:35 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:121:37 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:122:42 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:123:42 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:125:34 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:126:35 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:127:35 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:128:40 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:129:39 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:131:37 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:132:43 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:133:38 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:133:48 Syntax error: Expecting ','.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:133:48 Argument type mismatch: actual type is 'Int', but 'Pair<String, ImageVector>' was expected.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:134:36 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:134:46 Syntax error: Expecting ','.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:134:46 Argument type mismatch: actual type is 'Int', but 'Pair<String, ImageVector>' was expected.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:135:36 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:137:33 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:138:41 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:139:38 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:140:37 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:141:41 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:142:34 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:143:35 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:144:38 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:145:33 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:147:39 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:148:39 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:149:41 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:151:41 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:152:39 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:153:43 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:154:42 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:155:40 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:156:39 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:157:34 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:158:34 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:159:46 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:160:44 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:161:46 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:162:46 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:163:47 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:164:51 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:166:40 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:167:41 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:168:41 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:169:40 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:170:37 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:171:41 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:172:41 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:173:38 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:174:36 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:175:41 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:176:46 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:177:44 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:178:33 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:179:44 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:180:43 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:181:41 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:182:39 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:183:39 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:184:35 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:185:35 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:186:42 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:187:32 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:188:36 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:190:40 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:191:33 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:192:43 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:193:42 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:194:36 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:195:37 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:196:34 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:197:35 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:198:35 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:199:49 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:201:39 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:202:40 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:204:39 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:205:40 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:206:39 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:207:42 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:208:42 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:209:39 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:211:37 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:212:38 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:213:40 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:214:37 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:215:40 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:217:39 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:218:38 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:219:37 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:220:39 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:221:37 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:222:38 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:223:45 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:225:37 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:226:34 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:227:45 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:228:46 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:229:33 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:231:31 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:232:47 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:233:34 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:234:39 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:236:35 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:237:29 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:238:34 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:239:35 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:240:36 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:241:35 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:242:35 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:243:35 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:244:38 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:245:38 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:246:34 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:247:38 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:248:42 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:249:38 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:250:39 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:251:35 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:254:17 Functions which invoke @Composable functions must be marked with the @Composable annotation
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:255:54 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:256:56 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:257:61 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:258:57 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:259:55 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:260:55 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:261:54 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:262:56 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/chat/ToolCallVisuals.kt:263:50 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/knowledge/KnowledgeScreen.kt:1482:5 Functions which invoke @Composable functions must be marked with the @Composable annotation
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/knowledge/KnowledgeScreen.kt:1482:56 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/knowledge/KnowledgeScreen.kt:1483:5 Functions which invoke @Composable functions must be marked with the @Composable annotation
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/knowledge/KnowledgeScreen.kt:1483:56 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/knowledge/KnowledgeScreen.kt:1484:5 Functions which invoke @Composable functions must be marked with the @Composable annotation
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/knowledge/KnowledgeScreen.kt:1484:52 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/knowledge/KnowledgeScreen.kt:1485:5 Functions which invoke @Composable functions must be marked with the @Composable annotation
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/knowledge/KnowledgeScreen.kt:1485:50 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/qrcode/QrCodeDialogs.kt:78:57 Syntax error: Expecting ','.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/qrcode/QrCodeDialogs.kt:78:57 Argument type mismatch: actual type is 'Int', but 'String?' was expected.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/qrcode/QrCodeDialogs.kt:79:25 Argument already passed for this parameter.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/settings/AsrSection.kt:542:13 Functions which invoke @Composable functions must be marked with the @Composable annotation
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/settings/AsrSection.kt:543:41 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/settings/AsrSection.kt:544:44 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/settings/AsrSection.kt:545:39 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/settings/AsrSection.kt:546:49 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/settings/AsrSection.kt:547:49 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/settings/AsrSection.kt:548:50 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/settings/AsrSection.kt:549:40 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/settings/ProviderModelsComponents.kt:116:50 Unresolved reference 'MuseIcons'.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/settings/SettingsTutorialPage.kt:90:34 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/settings/SettingsTutorialPage.kt:104:34 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/settings/SettingsTutorialPage.kt:117:34 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/settings/SettingsTutorialPage.kt:133:34 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/settings/SettingsTutorialPage.kt:152:34 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/settings/SettingsTutorialPage.kt:163:34 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/settings/SettingsTutorialPage.kt:174:34 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/settings/SettingsTutorialPage.kt:186:34 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/settings/TaskRoutingSettingsPage.kt:259:13 Functions which invoke @Composable functions must be marked with the @Composable annotation
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/settings/TaskRoutingSettingsPage.kt:260:32 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/settings/TaskRoutingSettingsPage.kt:261:37 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/settings/TaskRoutingSettingsPage.kt:262:32 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/settings/TaskRoutingSettingsPage.kt:263:36 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/settings/TaskRoutingSettingsPage.kt:264:36 @Composable invocations can only happen from the context of a @Composable function
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/speech/TtsControllerWidget.kt:171:66 Syntax error: Expecting ','.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/speech/TtsControllerWidget.kt:171:66 Argument type mismatch: actual type is 'Int', but 'String?' was expected.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/speech/TtsControllerWidget.kt:172:33 Argument already passed for this parameter.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/speech/TtsControllerWidget.kt:183:66 Syntax error: Expecting ','.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/speech/TtsControllerWidget.kt:183:66 Argument type mismatch: actual type is 'Int', but 'String?' was expected.
+e: file:///E:/1Project/Muse/1muse/app/src/main/java/io/zer0/muse/ui/speech/TtsControllerWidget.kt:184:33 Argument already passed for this parameter.
+
+> Task :app:compileDebugKotlin FAILED
+
+[Incubating] Problems report is available at: file:///E:/1Project/Muse/1muse/build/reports/problems/problems-report.html
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':app:compileDebugKotlin'.
+> A failure occurred while executing org.jetbrains.kotlin.compilerRunner.btapi.BuildToolsApiCompilationWork
+   > Compilation error. See log for more details
+
+* Try:
+> Run with --stacktrace option to get the stack trace.
+> Run with --info or --debug option to get more log output.
+> Run with --scan to get full insights from a Build Scan (powered by Develocity).
+> Get more help at https://help.gradle.org.
+
+BUILD FAILED in 48s
+55 actionable tasks: 2 executed, 53 up-to-date
+Configuration cache entry reused.
